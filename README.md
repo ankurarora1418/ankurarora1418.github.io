@@ -1,11 +1,6 @@
-# Ankur Arora | Business Intelligence Architect
+Business Intelligence Architect
 
-#### Technical Skills: Microsoft Power BI, Power Apps, Power Automate, Azure Data Platform
-
-## Education
-- Master in Computer Applications (MCA) | Panjab University (_May 2006_)								       		
-- Bachelor in Computer Applications	Honors (BCA Hons)| Panjab University (_April 2002_)	 			        		
-- Bachelor in Computer Applications (BCA)	| Panjab University (_April 2001_)
+#### Technical Skills: Microsoft Power BI, Power Apps, Power Automate, Azure Data Platform, Snowflake
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -15,6 +10,11 @@
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Education
+- Master in Computer Applications (MCA) | Panjab University (_May 2006_)								       		
+- Bachelor in Computer Applications	Honors (BCA Hons) | Panjab University (_April 2002_)	 			        		
+- Bachelor in Computer Applications (BCA) | Panjab University (_April 2001_)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

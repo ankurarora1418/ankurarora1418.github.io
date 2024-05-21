@@ -1,12 +1,11 @@
-# ankurarora1418.github.io
-# Business Intelligence Architect
+# Ankur Arora | Business Intelligence Architect
 
 #### Technical Skills: Microsoft Power BI, Power Apps, Power Automate, Azure Data Platform
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Master in Computer Applications (MCA) | Panjab University (_May 2006_)								       		
+- Bachelor in Computer Applications	Honors (BCA Hons)| Panjab University (_April 2002_)	 			        		
+- Bachelor in Computer Applications (BCA)	| Panjab University (_April 2001_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
